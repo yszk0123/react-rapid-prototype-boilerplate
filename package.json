@@ -9,11 +9,12 @@
   },
   "devDependencies": {
     "autoprefixer": "^7.2.5",
-    "babel-plugin-react-rapid-prototyping": "https://github.com/yszk0123/babel-plugin-react-rapid-prototyping",
+    "babel-plugin-react-rapid-prototyping": "https://github.com/yszk0123/babel-plugin-react-rapid-prototyping#typescript",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
     "parcel-bundler": "^1.5.1",
-    "postcss-modules": "^1.1.0"
+    "postcss-modules": "^1.1.0",
+    "typescript": "^2.7.1"
   },
   "dependencies": {
     "classnames": "^2.2.5",

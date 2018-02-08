@@ -335,9 +335,9 @@ babel-plugin-check-es2015-constants@^6.22.0:
   dependencies:
     babel-runtime "^6.22.0"
 
-"babel-plugin-react-rapid-prototyping@https://github.com/yszk0123/babel-plugin-react-rapid-prototyping":
+"babel-plugin-react-rapid-prototyping@https://github.com/yszk0123/babel-plugin-react-rapid-prototyping#typescript":
   version "0.1.0"
-  resolved "https://github.com/yszk0123/babel-plugin-react-rapid-prototyping#e05dae9b7638ef1ad071068195e8e8bdd0ef245c"
+  resolved "https://github.com/yszk0123/babel-plugin-react-rapid-prototyping#57c94f59871e35e2a74cc88fb353d6293733d5da"
   dependencies:
     babel-plugin-syntax-jsx "^6.18.0"
 
@@ -3627,6 +3627,10 @@ tunnel-agent@^0.6.0:
 tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   version "0.14.5"
   resolved "https://registry.yarnpkg.com/tweetnacl/-/tweetnacl-0.14.5.tgz#5ae68177f192d4456269d108afa93ff8743f4f64"
+
+typescript@^2.7.1:
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.7.1.tgz#bb3682c2c791ac90e7c6210b26478a8da085c359"
 
 ua-parser-js@^0.7.9:
   version "0.7.17"
