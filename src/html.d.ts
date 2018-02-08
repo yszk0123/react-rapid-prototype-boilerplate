@@ -1,4 +1,4 @@
-declare module "*.html.js" {
-  declare var jsx: any;
-  export = jsx
+declare module '*.html.js' {
+  var jsx: any;
+  export = jsx;
 }

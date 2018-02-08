@@ -1,1 +1,1 @@
-<div class="Button">{props.name}</div>
+<div class="Button">{props.name}</div>;
